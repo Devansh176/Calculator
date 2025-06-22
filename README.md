@@ -54,11 +54,7 @@ flutter run
 
 ---
 
-## 📱 Screenshots (Optional)
 
-> Add screenshots here if needed (e.g., home screen, calculation UI).
-
----
 
 ## 👨‍💻 Author
 
