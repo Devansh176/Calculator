@@ -35,7 +35,7 @@ lib/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/simple_calculator_flutter.git
+git clone https://github.com/Devansh176/Calculator.git
 cd simple_calculator_flutter
 
 # 2. Get dependencies
